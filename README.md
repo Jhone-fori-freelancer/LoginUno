@@ -8,7 +8,7 @@ Este formulario de inicio de sesión HTML/CSS ha sido diseñado con precisión p
 * [Behance](https://www.behance.net/tu-url-de-behance)
 * [Dribble](https://www.dribble.com/tu-url-de-dribble)
 * [Porfolio web](https://tu-dominio.com/)
-## ver ejemplo en vivvo ([http](https://jhone-fori-freelancer.github.io/LoginUno/))
+## ver ejemplo en vivvo ([http](https://jhone-fori-freelancer.github.io/LoginUno/]) (https://jhone-fori-freelancer.github.io/LoginUno/)
 
 ## Instalación 
 Este proyecto no necesita de instalación. Simplemente abre la carpeta o haz doble click en el .html
